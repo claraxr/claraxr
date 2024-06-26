@@ -1,12 +1,15 @@
-## Hi there 👋
+###  vindas ao meu perfil 💙 
 
-<!--
-**claraxr/claraxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e: Clara Carvalho
 
-meu nome e:clara carvalho
+- Estou estudando na Alura;
+- Estou me desenvolvendo na linguagem JavaScript;
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+  😄!
+### voce pode entrar em contato comigo 🎱
 
-- Estou estudando na Alura
--Estou me desenvolvendo na linguagem JavaScript
--Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-  😄 
+@000110756587xsp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/UuxfrhK2g70AAAAC/yay-inside-out.gif)
+
 
